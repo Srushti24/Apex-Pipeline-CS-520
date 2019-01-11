@@ -2,10 +2,7 @@
    *  cpu.c
    *  Contains APEX cpu pipeline implementation
    *
-   *  Author :
-   *  Gaurav Kothari (gkothar1@binghamton.edu)
-   *  State University of New York, Binghamton
-   */
+  
   #include <stdio.h> 
   #include <stdlib.h> 
   #include <string.h>
